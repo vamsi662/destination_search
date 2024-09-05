@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.item-con {
+  padding: 15px;
+  margin-right: 10px;
+  width: 400px;
+  font-family: 'Roboto';
+}
+
+.image {
+  width: 70%;
+}
+
+p {
+  margin-top: 10px;
+}
